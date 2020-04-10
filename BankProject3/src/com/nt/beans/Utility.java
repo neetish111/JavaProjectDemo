@@ -9,7 +9,8 @@ public class Utility {
 		System.out.println(d.getDay());
 	}
 	private void m1() {
-		System.out.println("in m1() utility ....abcd");
+		System.out.println("in m1() utility 1234");
+
 
 	}
 
