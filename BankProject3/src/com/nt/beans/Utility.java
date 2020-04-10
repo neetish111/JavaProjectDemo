@@ -6,7 +6,7 @@ public class Utility {
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 		Date d=new Date();
-		System.out.println(d.getDate());
+		System.out.println(d.getDay());
 	}
 	private void m1() {
 		System.out.println("in m1() utility");
