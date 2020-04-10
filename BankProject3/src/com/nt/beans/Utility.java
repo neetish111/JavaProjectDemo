@@ -8,5 +8,9 @@ public class Utility {
 		Date d=new Date();
 		System.out.println(d.getDate());
 	}
+	private void m1() {
+		System.out.println("in m1() utility");
+
+	}
 
 }
